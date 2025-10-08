@@ -3,7 +3,7 @@
 I'm a 42 student focused on C and learning web development and C#. I enjoy solving problems, building small projects, and improving my programming fundamentals.
 
 - 🔭 Current: 42 student  
-- 🌱 Learning: C#.NET, web development (HTML & CSS)  
+- 🌱 Learning: C#, web development (HTML & CSS)  
 - 👯 Open to: hiring, freelance  
 - 💬 Ask me about: C, programming fundamentals, beginner web dev  
 - 📫 Contact: [jabr.abood@yahoo.com](mailto:jabr.abood@yahoo.com)  
