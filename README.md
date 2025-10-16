@@ -12,7 +12,6 @@ I'm a 42 student focused on C and learning web development and C#. I enjoy solvi
 ---
 
 ## Skills
-I use the logos below to make the skills section visual and easy to scan.
 
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c%23&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
